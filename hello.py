@@ -19,3 +19,8 @@ print("Aloha " + "World")
 
 #showing operators on strings
 print("Aloha" * 5)
+
+#showing f strings and how they work
+print("Aloha World ++++")
+plus = "+" * 4
+print(f"Aloha World {plus}")
