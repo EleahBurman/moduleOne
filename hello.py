@@ -16,3 +16,6 @@ print("this is floor - ", x)
 
 #showing concatenation
 print("Aloha " + "World")
+
+#showing operators on strings
+print("Aloha" * 5)
